@@ -1,0 +1,6 @@
+point	title	description	iconSize	iconOffset	icon
+25.8173943129475,-80.2492443833565	<a href="service.php?id=1368">BROWNSVILLE CHRISTIAN HOUSING CENTER<br/><small><i>by CAMILLUS HOUSE, INC.</i></small></a>	305-374-1065 x614<br/>4700 NW 32nd Avenue<br/>Miami, FL , 33142	25,25	-12,-25	resources/markerR.png
+25.7905546430203,-80.2068694327901	<a href="service.php?id=1375">HOMELESS PREVENTION PROGRAM<br/><small><i>by CAMILLUS HOUSE, INC.</i></small></a>	305-374-1065 x431<br/>1603 NW 7th Avenue<br/>Miami, FL , 33136	25,25	-12,-25	resources/markerR.png
+25.7907454146627,-80.2066964371909	<a href="service.php?id=1373">INSTITUTE OF SUCCESS AND PERSONAL ACHIEVEMENT<br/><small><i>by CAMILLUS HOUSE, INC.</i></small></a>	305-374-1065 x468<br/>1603 NW 7th Avenue<br/>Miami, FL , 33136	25,25	-12,-25	resources/markerR.png
+25.7907454146627,-80.2066964371909	<a href="service.php?id=1367">SHELTER AND DIRECT SERVICES<br/><small><i>by CAMILLUS HOUSE, INC.</i></small></a>	305-374-1065 x429<br/>1603 NW 7th Avenue<br/>Miami, FL , 33136	25,25	-12,-25	resources/markerR.png
+25.5049191727217,-80.3923566641854	<a href="service.php?id=1372">ST. MICHAEL'S HOUSE RESIDENCE<br/><small><i>by CAMILLUS HOUSE, INC.</i></small></a>	305-299-0820<br/>12320 SW 283rd Street<br/>Homestead, FL , 33033	25,25	-12,-25	resources/markerR.png
