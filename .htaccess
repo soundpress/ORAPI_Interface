@@ -1,2 +1,8 @@
 RewriteEngine On
 RewriteBase /
+
+
+RewriteCond %{REQUEST_URI} api/
+RewriteRule api/(.*) /public/$1 [L]
+
+RewriteRule (.*) /socialServicesApp/$1 [L]

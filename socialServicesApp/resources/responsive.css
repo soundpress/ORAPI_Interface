@@ -1,0 +1,163 @@
+.goog-te-gadget-simple .goog-te-menu-value span:before {
+  content: "Select Language";
+		visibility: visible;
+		font-family: Roboto,sans-serif;
+		font-size: 1rem;
+		color: #fff;
+		border: 1px solid #fff;
+    	padding: 6px 20px;
+}
+.language_link #google_translate_element {width: 140px;position: absolute;right: 64px;}
+/*.language_link .goog-te-gadget-simple .goog-te-menu-value span:before {right: 0;}*/
+.badge-info {margin-bottom: 5px;white-space: normal;text-align: left;line-height: 1;}
+#sGrid .descr, #sGrid .badges { font-size: 16px;}
+
+
+@media (max-width: 1920px)
+{
+
+}
+@media (max-width: 1787px)
+{
+
+}
+
+@media (max-width: 1708px)
+{
+
+}
+@media (max-width: 1600px)
+{
+
+}
+
+@media (max-width: 1525px)
+{
+
+}
+@media (max-width: 1440px)
+{
+
+}
+@media (max-width: 1360px)
+{
+
+}
+@media (max-width: 1333px)
+{
+
+}
+@media (max-width: 1247px)
+{
+  #accordion a, #accordion button {display: contents; white-space: normal;}
+}
+@media (max-width: 1152px)
+{
+  .col-3 , .col-9{ -webkit-box-flex: 0;  -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%;}
+}
+@media (max-width: 1067px)
+{
+  .col-8 {-webkit-box-flex: 0; -ms-flex: 0 0 90%;  flex: 0 0 90%; max-width: 90%;}
+  .container { max-width:100%;}
+  .typeahead, .tt-query, .tt-hint {width: 100%; height: 38px;}
+}
+@media (max-width: 1028px)
+{
+
+}
+@media (max-width: 1024px)
+{
+
+}
+@media (max-width: 980px)
+{
+
+}
+@media (max-width: 800px)
+{
+  .col-8 {-webkit-box-flex: 0; -ms-flex: 0 0 100%;  flex: 0 0 100%; max-width: 100%;}
+  .col-7 , .col-5{ -webkit-box-flex: 0;  -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%;}
+  .col-3 { -webkit-box-flex: 0;  -ms-flex: 0 0 40%; flex: 0 0 40%; max-width: 40%;}
+  .col-9{ -webkit-box-flex: 0;  -ms-flex: 0 0 60%; flex: 0 0 60%; max-width: 60%;}
+
+
+}
+@media (max-width: 767px)
+{
+  /* .menu_filter i { font-size: 21px; } */
+  .menu_filter {width:100%;font-size: 17px;text-transform: capitalize; display: inline-block; float: left; margin: 0px; padding: 18px 0px; color: #ffffff;box-shadow: none !important; background: none !important;}
+  .main_menu,  .submenu_div { display: none; height: inherit; }  
+  .menu_filter img{width: 23px; margin-right: 10px; margin-top: -4px;}
+  .logo_left { float: right;width: 32%;text-align: right; }
+  .logo_left img { max-width: 200px;}
+  .logo_area {height: 87px; padding: 8px 0;}
+  #google_translate_element {width: 260px;margin-top: 15px;}
+  .responsive_menu {float: left;width: 100%; font-size: 16px;margin: 0px;padding: 0px 0;color: #004a83; background: #004a83  !important; }
+
+  .top-bar-right { float: left; padding-top: 3px; }
+  .responsive_menu .menu_link {float: left; color: #fefeff;  font-weight: 500;font-size: 18px;width: 100%;text-align: left; padding: 0px; line-height: 40px; height: auto;}
+  .responsive_menu .menu_link.is-active, .responsive_menu .menu_link:hover {color: #ffffff !important; text-decoration: none;}
+}
+@media (max-width: 736px)
+{
+  .col-6 { -webkit-box-flex: 0; -ms-flex: 0 0 100%; flex: 0 0 100%;max-width: 100%;}
+}
+@media (max-width: 667px)
+{ 
+  .container { max-width: 100%;}
+}
+@media (max-width: 640px)
+{
+
+}
+@media (max-width: 600px)
+{
+
+}
+@media (max-width: 568px)
+{
+  .nav-link.white_space {padding: 0px;  line-height: 0px;}
+  .logo_left img {max-width: 150px;}
+  .logo_left {width: 30%;}
+  .logo_area {height: 75px;}
+}
+@media (max-width: 536px)
+{
+  .col-3 , .col-9{ -webkit-box-flex: 0;  -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%;}
+}
+@media (max-width: 480px)
+{
+  /* .goog-te-gadget-simple .goog-te-menu-value span:before{ display: none;} */
+  #google_translate_element { width: 160px;}
+  #accordion button {    float: left;
+    width: 10%;
+    display: block;}
+}
+@media (max-width: 414px)
+{
+  .nav-link { display: inline-block; padding: .5rem 1rem;}
+  .tt-menu {width:100%;}
+  .container.pl-4 {padding: 0 20px !important;}
+  .logo_left { width: auto;}
+  #google_translate_element { width: 39%;}
+  .goog-te-gadget-simple .goog-te-menu-value span:before {padding: 6px 7px;}
+  
+}
+@media (max-width: 375px)
+{
+  .page-link {padding: 5px 7px;margin-top: 10px;}
+  .logo_area {height: 140px;}
+  .logo_left img {max-width: 200px;}
+  .logo_left { width: 100%;  text-align: center;}
+  #google_translate_element { width: 50%; margin-top: 15px;}
+}
+@media (max-width: 360px)
+{
+  .card-header { padding: .75rem 7px;}
+  .card-header .btn-link {font-size: 14px}
+  #basicMapPlaceholder p {font-size: 18px;}
+}
+@media (max-width: 320px)
+{
+
+}
